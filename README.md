@@ -27,7 +27,7 @@ A dedicated Data Analyst, I specialize in transforming raw data into clear, prec
 ## PROJECTS
 
 ### Excel
- ###  1. []()
+ ###  1. [Global_Gadget_Sales](https://github.com/TwumasiIsaac/TwumasiIsaac/blob/main/GlobalGadgets%20Sales%20Analysis.docx)
  ###  2. []()
 
 ### Power BI
